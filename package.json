@@ -77,8 +77,7 @@
     }
   },
   "publishConfig": {
-    "access": "public",
-    "registry": "https://github.com/theoradicella"
+    "access": "public"
   },
   "storybook": {
     "displayName": "Theme Switcher",
