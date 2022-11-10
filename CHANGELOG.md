@@ -1,3 +1,19 @@
+# v1.1.2 (Thu Nov 10 2022)
+
+#### ⚠️ Pushed to `main`
+
+- 1.1.0 (theo.radicella@clevertech.biz)
+- npm registry (theo.radicella@clevertech.biz)
+- project setup (theo.radicella@clevertech.biz)
+- Initial commit ([@theoradicella](https://github.com/theoradicella))
+
+#### Authors: 2
+
+- Theo ([@theoradicella](https://github.com/theoradicella))
+- Theo Radicella (theo.radicella@clevertech.biz)
+
+---
+
 # v1.1.1 (Thu Nov 10 2022)
 
 #### ⚠️ Pushed to `main`
