@@ -1,9 +1,10 @@
 {
   "name": "storybook-theme-switcher",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "description": "Change between dark and light theme.",
   "keywords": [
-    "themes", "storybook-addons"
+    "themes",
+    "storybook-addons"
   ],
   "repository": {
     "type": "git",
@@ -82,7 +83,15 @@
   "storybook": {
     "displayName": "Theme Switcher",
     "supportedFrameworks": [
-      "react", "vue", "angular", "web-components", "ember", "html", "svelte", "preact", "react-native"
+      "react",
+      "vue",
+      "angular",
+      "web-components",
+      "ember",
+      "html",
+      "svelte",
+      "preact",
+      "react-native"
     ],
     "icon": "https://user-images.githubusercontent.com/321738/63501763-88dbf600-c4cc-11e9-96cd-94adadc2fd72.png"
   }
