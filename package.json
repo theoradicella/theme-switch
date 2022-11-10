@@ -1,6 +1,6 @@
 {
   "name": "storybook-theme-switcher",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Change between dark and light theme.",
   "keywords": [
     "themes",
