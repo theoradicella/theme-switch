@@ -78,7 +78,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://github.com/theoradicella"
   },
   "storybook": {
     "displayName": "Theme Switcher",
