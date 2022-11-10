@@ -78,7 +78,7 @@
   },
   "publishConfig": {
     "access": "public",
-    "registry": "https://registry.npmjs.org/storybook-theme-switcher"
+    "registry": "https://registry.npmjs.org"
   },
   "storybook": {
     "displayName": "Theme Switcher",
