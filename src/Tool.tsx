@@ -4,24 +4,24 @@ import { Icons, IconButton } from "@storybook/components";
 import { TOOL_ID } from "./constants";
 
 export const Tool = () => {
-  const [{ myAddon }, updateGlobals] = useGlobals();
+  const [{ darkMode }, updateGlobals] = useGlobals();
 
-  const toggleMyTool = useCallback(
+  const toggleDarkMode = useCallback(
     () =>
       updateGlobals({
-        myAddon: myAddon ? undefined : true,
+        darkMode: !darkMode,
       }),
-    [myAddon]
+    [darkMode]
   );
 
   return (
     <IconButton
       key={TOOL_ID}
-      active={myAddon}
-      title="Enable my addon"
-      onClick={toggleMyTool}
+      active={darkMode}
+      title="Enable dark mode"
+      onClick={toggleDarkMode}
     >
-      <Icons icon="lightning" />
+      <Icons icon={darkMode ? "circle" : "circlehollow"} />
     </IconButton>
   );
 };
